@@ -129,7 +129,7 @@ input:focus {
     font-size: 15px;
     font-weight: 500;
     cursor: pointer;
-    border: 1px solid #06D7A5;
+    border: 1px solid #06D7A5!important;
 }
 
 
